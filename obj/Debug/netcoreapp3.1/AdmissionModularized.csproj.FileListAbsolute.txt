@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/bin/Debug/netcoreapp3.1/AdmissionModularized.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/bin/Debug/netcoreapp3.1/AdmissionModularized.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/bin/Debug/netcoreapp3.1/AdmissionModularized.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/bin/Debug/netcoreapp3.1/AdmissionModularized.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/bin/Debug/netcoreapp3.1/AdmissionModularized.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/AdmissionModularized/obj/Debug/netcoreapp3.1/AdmissionModularized.genruntimeconfig.cache
